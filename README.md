@@ -1,31 +1,42 @@
-<h1 align="center">David Chávez Bracamontes</h1>
-<p align="center"><strong>Desarrollo de software · Automatización · Análisis de datos</strong></p>
-
 <p align="center">
-  Creo herramientas que ayudan a simplificar procesos, organizar información y convertir datos en decisiones prácticas.
+  <img src="assets/profile-banner.svg" alt="David Chávez Bracamontes — Desarrollo de software, automatización y análisis de datos" width="100%">
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/davidbracamontes00?tab=repositories"><img src="https://img.shields.io/badge/Proyectos-Ver%20repositorios-0b1726?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyectos en GitHub"></a>
+  <a href="https://github.com/davidbracamontes00"><img src="https://img.shields.io/badge/GitHub-davidbracamontes00-0b1726?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub"></a>
+</p>
 
-## Perfil
+## Sobre mí
 
-Me enfoco en desarrollar soluciones para necesidades operativas y de negocio, desde la automatización de tareas y reportes hasta el análisis de datos y las aplicaciones web. En mis proyectos trabajo con Python, JavaScript y tecnologías de machine learning.
+Desarrollo soluciones de software enfocadas en simplificar procesos y facilitar el trabajo con datos. Mis proyectos abarcan automatización de reportes, aplicaciones web y análisis con machine learning.
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [Análisis logístico](https://github.com/davidbracamontes00/priority-for-clients-) | Modelos de clasificación y clustering para explorar modos de envío, puntualidad y segmentos de clientes. | Python · Machine Learning |
-| [Automatización de reportes](https://github.com/davidbracamontes00/RDA-AUTOMOTRIZ) | Herramienta para contar clientes y generar reportes diarios de operación. | JavaScript |
-| [Análisis de afluencia con Salesforce](https://github.com/davidbracamontes00/RDA_SALESFORCE_V3) | Proyecto para consultar y visualizar datos de afluencia del CRM. | Python |
-| [Registro de clientes](https://github.com/davidbracamontes00/sale_u-api) | Aplicación para automatizar el registro de clientes. | HTML · JavaScript |
+### [Análisis logístico con machine learning](https://github.com/davidbracamontes00/priority-for-clients-)
+Modelos de clasificación y clustering para analizar modos de envío, puntualidad y segmentos de clientes.
 
-## Tecnologías
+**Python · KNN · SVM · Random Forest · XGBoost · K-Means**
 
-**Lenguajes:** Python · JavaScript · HTML
+### [Automatización de reportes de afluencia](https://github.com/davidbracamontes00/RDA-AUTOMOTRIZ)
+Herramienta para contar clientes y generar reportes diarios de operación.
 
-**Áreas:** Automatización · Análisis de datos · Machine learning · Aplicaciones web
+**JavaScript**
 
-## Contacto
+### [Análisis de afluencia con Salesforce](https://github.com/davidbracamontes00/RDA_SALESFORCE_V3)
+Proyecto para consultar datos de afluencia del CRM Salesforce.
 
-Puedes conocer más sobre mi trabajo y escribirme a través de [GitHub](https://github.com/davidbracamontes00).
+**Python**
+
+### [Registro automático de clientes](https://github.com/davidbracamontes00/sale_u-api)
+Aplicación web orientada a simplificar el registro de clientes.
+
+**HTML · JavaScript**
+
+## Tecnologías y áreas
+
+`Python` `JavaScript` `HTML` `Machine Learning` `Automatización` `Análisis de datos`
+
+---
+
+<p align="center"><sub>Gracias por visitar mi perfil.</sub></p>
