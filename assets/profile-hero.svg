@@ -44,11 +44,15 @@
 <rect width="1120" height="360" rx="30" fill="url(#grid)"/>
 <rect x="1.2" y="1.2" width="1117.6" height="357.6" rx="28.8" stroke="#22d3ee" stroke-opacity=".28"/>
 <rect class="scan" x="0" y="0" width="340" height="360" fill="url(#beam)" opacity=".22"/>
-<path class="dash" filter="url(#glow)" d="M58 264 C 196 236, 298 312, 444 258 S 686 154, 836 208 S 964 230, 1024 190" stroke="url(#routeA)" stroke-width="2.8" fill="none"/>
+<g stroke="#22d3ee" stroke-opacity=".14" stroke-width="1">
+  <path d="M64 286H1056M64 306H1056M64 326H1056"/>
+  <path d="M64 278V330M164 278V330M264 278V330M364 278V330M464 278V330M564 278V330M664 278V330M764 278V330M864 278V330M964 278V330M1056 278V330"/>
+</g>
+<path class="dash" filter="url(#glow)" d="M64 322L164 310L264 316L364 294L464 300L564 282L664 294L764 260L864 273L964 243L1056 250" stroke="url(#routeA)" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
 <g class="float">
-  <circle cx="836" cy="206" r="5" fill="#5eead4"/>
-  <circle cx="948" cy="236" r="4.5" fill="#22d3ee"/>
-  <circle cx="764" cy="194" r="4.5" fill="#f59e0b"/>
+  <circle cx="164" cy="310" r="4" fill="#22d3ee"/>
+  <circle cx="564" cy="282" r="4" fill="#5eead4"/>
+  <circle cx="964" cy="243" r="4.5" fill="#f59e0b"/>
 </g>
 <text x="72" y="88" class="mono" fill="#22d3ee" font-size="15" letter-spacing="2.6">~/data-engineering</text>
 <text x="72" y="144" class="sans" fill="#f8fafc" font-size="52" font-weight="900">David Chavez Bracamontes</text>
@@ -57,8 +61,15 @@
 <text x="72" y="260" class="mono" fill="#eef5ff" font-size="17">From clean inputs to clear, repeatable outputs.</text>
 <g class="pulse" transform="translate(930 86)">
   <rect width="120" height="120" rx="32" fill="#07111f" stroke="#22d3ee" stroke-opacity=".46"/>
-  <circle cx="60" cy="60" r="36" stroke="#5eead4" stroke-opacity=".3"/>
-  <path d="M30 60 h18 l9 -22 l16 48 l10 -25 h20" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25 34H96M25 52H96M25 70H96M25 88H96" stroke="#22d3ee" stroke-opacity=".14"/>
+  <path d="M26 28V92H98" stroke="#5eead4" stroke-opacity=".62" stroke-width="1.5"/>
+  <rect x="36" y="70" width="8" height="22" rx="2" fill="#22d3ee" fill-opacity=".45"/>
+  <rect x="51" y="60" width="8" height="32" rx="2" fill="#22d3ee" fill-opacity=".58"/>
+  <rect x="66" y="48" width="8" height="44" rx="2" fill="#5eead4" fill-opacity=".58"/>
+  <rect x="81" y="40" width="8" height="52" rx="2" fill="#5eead4" fill-opacity=".72"/>
+  <path d="M30 68L48 60L63 64L78 45L96 36" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="78" cy="45" r="3" fill="#f59e0b"/>
+  <circle cx="96" cy="36" r="3.5" fill="#f59e0b"/>
 </g>
 <path d="M64 78 h120" stroke="#22d3ee" stroke-opacity=".36"/>
 <path d="M64 78 v18" stroke="#22d3ee" stroke-opacity=".36"/>
