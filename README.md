@@ -52,6 +52,26 @@ I care about clean inputs, traceable transformations, and tools that people can 
 
 <p align="center"><img src="./assets/panel-approach.svg" width="100%" alt="My approach to data workflows"></p>
 
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/davidbracamontes00">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidbracamontes00&amp;theme=nord_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidbracamontes00&amp;theme=nord_bright">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidbracamontes00&amp;theme=nord_dark" width="100%" alt="GitHub contribution activity and profile summary">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/davidbracamontes00">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbracamontes00&amp;theme=nord_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbracamontes00&amp;theme=nord_bright">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbracamontes00&amp;theme=nord_dark" width="52%" alt="GitHub statistics: stars, commits, pull requests, and issues">
+    </picture>
+  </a>
+</p>
 <p align="center"><sub>Thanks for visiting my profile.</sub></p>
 
 <!-- Visual structure and SVG assets adapted from Profile Signal Kit, MIT License. See THIRD-PARTY-NOTICES.md. -->
