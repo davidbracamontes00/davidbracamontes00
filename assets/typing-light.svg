@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="48" viewBox="0 0 350 48" role="img" aria-label="Data Engineer">
-  <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:24px;font-weight:600}</style>
-  <text x="8" y="32" fill="#b45309">&gt;_</text>
-  <clipPath id="typing"><rect x="46" y="0" width="0" height="48"><animate attributeName="width" dur="5s" repeatCount="indefinite" values="0;0;188;188;0;0" keyTimes="0;.08;.5;.68;.98;1"/></rect></clipPath>
-  <text x="46" y="32" fill="#0e7490" clip-path="url(#typing)">Data Engineer</text>
-  <rect x="46" y="11" width="8" height="24" rx="1" fill="#b45309"><animate attributeName="x" dur="5s" repeatCount="indefinite" values="46;46;234;234;46;46" keyTimes="0;.08;.5;.68;.98;1"/><animate attributeName="opacity" dur=".9s" repeatCount="indefinite" values="1;0" keyTimes="0;.5"/></rect>
-</svg>
