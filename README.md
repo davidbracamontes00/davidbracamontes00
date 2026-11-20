@@ -15,8 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=42&amp;lines=%3E+Data+Engineer;Building+reliable+data+workflows;Python+%7C+Analytics+%7C+Automation" alt="Typing animation: Data Engineer, data workflows, Python, analytics, automation">
 </p>
 
-<p align="center"><img src="./assets/divider-calm.svg" width="100%" alt=""></p>
-
 ## About Me
 
 I build data-focused applications that turn operational and customer data into clear, repeatable outputs. My work combines **Python data processing**, **reporting automation**, **APIs**, and **applied machine learning**.
@@ -54,7 +52,6 @@ I care about clean inputs, traceable transformations, and tools that people can 
 
 <p align="center"><img src="./assets/panel-approach.svg" width="100%" alt="My approach to data workflows"></p>
 
-<p align="center"><img src="./assets/divider-pulse.svg" width="100%" alt=""></p>
-<p align="center"><img src="./assets/footer-signal.svg" width="100%" alt="Clean data, clear reports, practical automation"></p>
+<p align="center"><sub>Thanks for visiting my profile.</sub></p>
 
 <!-- Visual structure and SVG assets adapted from Profile Signal Kit, MIT License. See THIRD-PARTY-NOTICES.md. -->
